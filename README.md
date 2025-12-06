@@ -1,2 +1,2 @@
-# Power-BI-Project-
-Power BI Dashboard
+# Power-BI-Workshop Project
+Power BI Dashboard of Top IMDB Movies 
